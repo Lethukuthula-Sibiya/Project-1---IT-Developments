@@ -49,3 +49,7 @@ Credentials and sensitive information is not to be committed directly to a GitHu
 This is a critical security principle I must adhere to. Because exposing such information can lead to
 severe consequences, including unauthorized access, data breaches, and financial loss.
 
+---
+
+### License
+This repository is licensed under the MIT License.
