@@ -25,7 +25,7 @@ I will be working on in this module.
 ---
 
 ### Link to the documentation created:
-https://github.com/Smindlo04/CMPG323-Overview---41566599/tree/main
+https://github.com/NWU-CMPG323-2024/project-1-Smindlo04
 
 ---
 
