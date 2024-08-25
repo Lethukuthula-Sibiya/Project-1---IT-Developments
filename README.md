@@ -11,7 +11,8 @@ I will be working on in this module.
      for all features of project 1.
 
 ### 2. Project 2 [Web API]:
-   - The repository for project 2 is yet to be created which will include all its features.
+   - The repository "CMPG323 Project 2 - 41566599" has been created and is used for all features of project 2.
+   - URL: 
 
 ### 3. Project 3 [Web App]:
 - The repository for project 3 is yet to be created which will include all its features.
