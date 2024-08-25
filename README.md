@@ -16,7 +16,7 @@ I will be working on in this module.
 
 ### 3. Project 3 [Web App]:
 - The repository "CMPG323 Project 3 - 41566599" was created and used for all features of project 3.
-- URL: 
+- URL: https://github.com/Smindlo04/CMPG323-Project-3---41566599
 
 ### 4. Project 4 [RPA Testing]:
    - The repository for project 4 is yet to be created which will include all its features.
