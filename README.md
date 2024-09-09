@@ -19,7 +19,8 @@ I will be working on in this module.
 - URL: https://github.com/Smindlo04/CMPG323-Project-3---41566599
 
 ### 4. Project 4 [RPA Testing]:
-   - The repository for project 4 is yet to be created which will include all its features.
+   - The repository "CMPG323 Project 4 - 41566599" was created and used for all features of project 4.
+   - URL: https://github.com/Smindlo04/CMPG323-Project-4---41566599
 
 ### 5. Project 5 [Reporting]:
 - The repository for project 5 is yet to be created which will include all its features.
