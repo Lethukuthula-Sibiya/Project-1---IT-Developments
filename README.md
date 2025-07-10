@@ -7,23 +7,20 @@ I will be working on in this module.
 
 # Project List
 ### 1. Project 1 [Analysis and Planning]:
-   - The repository "CMPG323 Overview - 41566599" was created and used
+   - The repository "Project-1---IT-Developments" was created and used
      for all features of project 1.
 
 ### 2. Project 2 [Web API]:
-   - The repository "CMPG323 Project 2 - 41566599" was created and used for all features of project 2.
-   - URL: https://github.com/Smindlo04/CMPG323-Project-2---41566599
+   - The repository "Project-2---IT-Developments" was created and used for all features of project 2.
+   - URL: https://github.com/Lethukuthula-Sibiya/Project-2---IT-Developments
 
 ### 3. Project 3 [Web App]:
-- The repository "CMPG323 Project 3 - 41566599" was created and used for all features of project 3.
-- URL: https://github.com/Smindlo04/CMPG323-Project-3---41566599
+- The repository "Project-3---IT-Developments" was created and used for all features of project 3.
+- URL: https://github.com/Lethukuthula-Sibiya/Project-3---IT-Developments
 
 ### 4. Project 4 [RPA Testing]:
-   - The repository "CMPG323 Project 4 - 41566599" was created and used for all features of project 4.
-   - URL: https://github.com/Smindlo04/CMPG323-Project-4---41566599
-
-### 5. Project 5 [Reporting]:
-- The repository for project 5 is yet to be created which will include all its features.
+   - The repository "Project-4---IT-Developments-" was created and used for all features of project 4.
+   - URL: https://github.com/Lethukuthula-Sibiya/Project-4---IT-Developments-
 
 ---
 
